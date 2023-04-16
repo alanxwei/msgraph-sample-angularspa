@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\msgraph-sample-angularspa.props" />
+</Project>

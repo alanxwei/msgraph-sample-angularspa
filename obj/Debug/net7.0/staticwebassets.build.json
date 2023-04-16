@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "v7Kk8S4gf2EZ5eRYC95lOTpWjDRbH23j3MxXcKOPiJQ=",
+  "Source": "msgraph-sample-angularspa",
+  "BasePath": "_content/msgraph-sample-angularspa",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
